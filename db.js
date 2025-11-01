@@ -6,7 +6,7 @@ const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: 'catolica',
-    database: 'userdb',
+    database: 'userdb_5',
     port: '3307'
 });
 
